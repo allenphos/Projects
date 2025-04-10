@@ -1,3 +1,4 @@
-This project demonstrates time series forecasting using Python and Darts.
+# This project demonstrates time series forecasting using Python and Darts.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your_colab_notebook_id)
+# Link to a file stored on Google Drive
+print("See the full output here: [https://colab.research.google.com/drive/1C8r2Jutet8WzaGQjlSPglQA-zPPjj89s#scrollTo=CJShNCOu4GsT]")
