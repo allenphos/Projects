@@ -1,0 +1,17 @@
+# Credentials and secrets
+creds.json
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
