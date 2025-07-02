@@ -14,11 +14,6 @@ This repository contains projects completed as part of my studies at Noroff Univ
 4. **Overfitting and Regularization in Regression:**
    Compared Linear and Polynomial Regression models to demonstrate overfitting in regression. Utilized regularization techniques such as Ridge, Lasso, and ElasticNet to mitigate overfitting and enhance model generalization.
 
-5. **Store Item Demand Forecasting:**
-   Developed a forecasting model to predict daily sales of 50 items in 10 stores for the next month using data from the Kaggle Store Item Demand Forecasting Challenge. Implemented various time series models, including         NaiveSeasonal, XGBModel, ExponentialSmoothing, ARIMA, AutoARIMA, Prophet, and RNNModel. Prophet achieved the best performance, demonstrating effective demand forecasting in retail.
-
-   **[Open in Colab](https://colab.research.google.com/drive/1C8r2Jutet8WzaGQjlSPglQA-zPPjj89s#scrollTo=CJShNCOu4GsT)** 
-
 
 In **Bank Customer Churn Prediction** directory:
 
