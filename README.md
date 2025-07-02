@@ -15,7 +15,7 @@ This repository contains projects completed as part of my studies at Noroff Univ
    Compared Linear and Polynomial Regression models to demonstrate overfitting in regression. Utilized regularization techniques such as Ridge, Lasso, and ElasticNet to mitigate overfitting and enhance model generalization.
 
 
-In **Bank Customer Churn Prediction** directory (Participated in the [Bank Customer Churn Prediction](https://www.kaggle.com/competitions/bank-customer-churn-prediction-dlu-course-c-2) Kaggle competition.):
+In **Bank Customer Churn Prediction** directory (Participated in the [Bank Customer Churn Prediction](https://www.kaggle.com/competitions/bank-customer-churn-prediction-dlu-course-c-2) Kaggle competition):
 
    1. **Logistic Regression with Scikit-Learn: Bank Customer Churn Prediction:**   
       Developed a logistic regression model to predict customer churn based on demographic, financial, and behavioral attributes. The project involved data preprocessing, exploratory data analysis, model training, and          evaluation. Currently participating in a Kaggle competition and ranking on the leaderboard.
