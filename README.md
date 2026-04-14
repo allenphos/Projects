@@ -39,6 +39,23 @@ The projects in the **Bank Customer Churn Prediction** directory were completed 
 
 <br/>
 
+## Data Visualization Reports
+
+This repository also includes **two data visualization reports** containing **four dashboard projects** developed in Power BI.  
+These projects focus on dashboard design, data cleaning, interactive reporting, and visual communication of analytical insights.
+
+### Included dashboard projects
+- **Global UFO Sightings Dashboard**
+- **Global Fossil CO2 Emissions Dashboard**
+- **Regional Share Change in Energy Drink Consumption**
+- **Top 5 Shopping Malls in Istanbul by Monthly Revenue**
+
+The reports include:
+- dashboard screenshots
+- short analytical write-ups
+- data cleaning notes
+- links to interactive visualizations where available
+
 ## Repository Focus
 This repository highlights practical work in:
 - data preprocessing and feature preparation
@@ -47,6 +64,8 @@ This repository highlights practical work in:
 - class imbalance handling
 - regularization techniques
 - deep learning with PyTorch
+- dashboard design and data visualization in Power BI
+- data cleaning and reporting
 
 ## Tools and Libraries
 - Python
